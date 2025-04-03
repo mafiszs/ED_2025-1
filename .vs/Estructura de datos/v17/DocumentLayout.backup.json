@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\semana1\\estructura de datos\\ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\semana1\\estructura de datos\\ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\frmlistasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\semana1\\estructura de datos\\ejercicios\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\listasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|c:\\users\\upn\\downloads\\semana1\\estructura de datos\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1376AFED-9A84-4B72-8EFD-EA22E79E44E2}|ejercicios\\ejercicios.csproj|solutionrelative:ejercicios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmListaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\FrmListaSimple.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmListaSimple.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\FrmListaSimple.cs",
+              "RelativeToolTip": "ejercicios\\FrmListaSimple.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIA2wCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:07:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmListaSimple.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\FrmListaSimple.cs",
+              "RelativeDocumentMoniker": "ejercicios\\FrmListaSimple.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\FrmListaSimple.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicios\\FrmListaSimple.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:03:09.009Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\clases\\ListaSimple.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\ListaSimple.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\clases\\ListaSimple.cs",
+              "RelativeToolTip": "ejercicios\\clases\\ListaSimple.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv1wAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:36:35.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\clases\\Nodo.cs",
+              "RelativeDocumentMoniker": "ejercicios\\clases\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\clases\\Nodo.cs",
+              "RelativeToolTip": "ejercicios\\clases\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:47:11.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\Form1.cs",
+              "RelativeDocumentMoniker": "ejercicios\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\Form1.cs",
+              "RelativeToolTip": "ejercicios\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:33:15.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\Program.cs",
+              "RelativeToolTip": "ejercicios\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:26:38.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\Form1.cs",
+              "RelativeDocumentMoniker": "ejercicios\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\Downloads\\semana1\\Estructura de datos\\ejercicios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicios\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:09:36.307Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
