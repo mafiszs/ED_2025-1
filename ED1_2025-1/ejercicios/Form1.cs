@@ -51,5 +51,16 @@ namespace ejercicios
             FrmPilas fp = new FrmPilas();
             fp.ShowDialog(this);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void colaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmCola fc = new FrmCola();
+            fc.ShowDialog(this);
+        }
     }
 }
