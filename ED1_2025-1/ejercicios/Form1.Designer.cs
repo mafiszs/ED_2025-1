@@ -38,6 +38,8 @@
             this.listaEnlazadaDobleAnálisisToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.piToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.colaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.arbolBinarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.arbolBinarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -78,7 +80,9 @@
             this.listaEnlazadaDobleToolStripMenuItem,
             this.listaEnlazadaDobleAnálisisToolStripMenuItem,
             this.piToolStripMenuItem,
-            this.colaToolStripMenuItem});
+            this.colaToolStripMenuItem,
+            this.arbolBinarioToolStripMenuItem,
+            this.arbolBinarToolStripMenuItem});
             this.operacionesToolStripMenuItem.Name = "operacionesToolStripMenuItem";
             this.operacionesToolStripMenuItem.Size = new System.Drawing.Size(117, 25);
             this.operacionesToolStripMenuItem.Text = "Operaciones";
@@ -125,6 +129,20 @@
             this.colaToolStripMenuItem.Text = "Cola";
             this.colaToolStripMenuItem.Click += new System.EventHandler(this.colaToolStripMenuItem_Click);
             // 
+            // arbolBinarioToolStripMenuItem
+            // 
+            this.arbolBinarioToolStripMenuItem.Name = "arbolBinarioToolStripMenuItem";
+            this.arbolBinarioToolStripMenuItem.Size = new System.Drawing.Size(297, 26);
+            this.arbolBinarioToolStripMenuItem.Text = "Arbol Binario";
+            this.arbolBinarioToolStripMenuItem.Click += new System.EventHandler(this.arbolBinarioToolStripMenuItem_Click);
+            // 
+            // arbolBinarToolStripMenuItem
+            // 
+            this.arbolBinarToolStripMenuItem.Name = "arbolBinarToolStripMenuItem";
+            this.arbolBinarToolStripMenuItem.Size = new System.Drawing.Size(297, 26);
+            this.arbolBinarToolStripMenuItem.Text = "Arbol Binario de Busqueda";
+            this.arbolBinarToolStripMenuItem.Click += new System.EventHandler(this.arbolBinarToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -158,6 +176,8 @@
         private System.Windows.Forms.ToolStripMenuItem listaEnlazadaDobleAnálisisToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem piToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem colaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem arbolBinarioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem arbolBinarToolStripMenuItem;
     }
 }
 
